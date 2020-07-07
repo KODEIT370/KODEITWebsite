@@ -217,7 +217,7 @@ textarea {
 .teamphoto{
   margin: auto;
   text-align: center;
-  width: 90%;
+  width: 65%;
 }
 
 .rowcenter{
@@ -228,4 +228,26 @@ textarea {
 .serviceCard{
   background-color: #282828;
   border-radius: 0px;
+}
+
+.cardKODE{
+  background-color: #282828;
+  border: 5px solid #4c246c; 
+  border-radius: 20px;
+}
+
+.mainHeader{
+  font-size: 400%;
+  color: white;
+}
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.carouselImage{
+  opacity: 0.5;
+  background-color: black;
 }
