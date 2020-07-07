@@ -199,3 +199,10 @@ footer a:hover {
 textarea {
   resize: none;
 }
+
+
+.teamphoto{
+  margin: auto;
+  text-align: center;
+  width: 95%;
+}
